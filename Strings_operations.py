@@ -5,4 +5,4 @@ print(x[2:5]) # var[st index, end index] gives string between those index
 print(x.upper()) # var.upper() changes string to upper case
 print(x.lower())# var.lower()changes string to lower case
 print(x.replace("H","J")) # replace the element
-print(x[-1::-1]) # reverses the string 
+print(x[-1::-1]) # reverses the string
