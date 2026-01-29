@@ -1,3 +1,4 @@
+# Equilateral triangle
 size = 7
 m = (2*size) - 2
 for i in range (0,size):

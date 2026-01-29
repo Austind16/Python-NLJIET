@@ -1,3 +1,4 @@
+# Floyd's Triangle
 size = int(input("Enter the size of Floyd's triangle: "))
 a = 1
 for i in range(0,size + 1):

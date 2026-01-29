@@ -7,4 +7,4 @@ def maximum(a, b, c):
     else:
         print(c ,"is the greatest number")
 
-maximum(12,10,5)
+maximum(12,10,5) # Calling function with arguments

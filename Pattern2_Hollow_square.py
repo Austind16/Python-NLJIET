@@ -1,3 +1,7 @@
+# Hollow square
+# nested loop 
+# row = i
+# column = j
 size = int(input("Enter size of the square: "))
 for i in range(0, size):
     for j in range(0, size):
