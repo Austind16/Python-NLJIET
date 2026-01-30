@@ -1,3 +1,4 @@
+# Python program to search a number in an array
 import array as arr
 
 a = arr.array('i', [])

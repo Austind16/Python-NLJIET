@@ -4,14 +4,14 @@ e = """Hello
 World"""
 f = '''Hello
 World'''
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
-print(type(e))
+print(type(a)) # text - String
+print(type(b)) # text - String
+print(type(c)) # number - integer
+print(type(d)) # number - float
+print(type(e)) # 
 print(e)
 print(type(f))
 print(f)
-print(type(g))
-print(type(h))
-print(type(i))
+print(type(g)) # boolean - bool
+print(type(h)) # boolean - bool
+print(type(i)) # number - complex
