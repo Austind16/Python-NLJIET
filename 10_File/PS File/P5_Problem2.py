@@ -18,5 +18,7 @@ def game():
     if(score > hi_score):
         #Write the hiscore of the file
         with open("Hi-score.txt", "w") as f:
-            f.write(str(hi_score))
+            f.write(str(score))
     return score
+
+game()
